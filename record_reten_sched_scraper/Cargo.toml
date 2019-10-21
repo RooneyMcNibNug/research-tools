@@ -1,0 +1,13 @@
+[package]
+name = "record_reten_sched_scraper"
+version = "0.1.0"
+authors = ["rooneymcnibnug"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+reqwest = "0.9.18"
+select = "0.4.3"
+scraper = "0.11.0"
